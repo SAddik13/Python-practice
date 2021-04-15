@@ -1,0 +1,2 @@
+SAddik = 'Python program'
+print(SAddik*3)
